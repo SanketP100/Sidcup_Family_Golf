@@ -1,0 +1,16 @@
+<link href="https://cdn.jsdelivr.net/npm/remixicon@3.4.0/fonts/remixicon.css" rel="stylesheet">
+
+arrow-> <i class="ri-arrow-right-line"></i> 
+
+insta -> <i class="ri-instagram-fill"></i>
+
+feesbook-> <i class="ri-facebook-box-fill"></i>
+
+twitter-> <i class="ri-twitter-fill"></i>
+
+menu-line-> <i class="ri-menu-line"></i>
+
+
+font-family: 'Alef', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Ubuntu', sans-serif; 
