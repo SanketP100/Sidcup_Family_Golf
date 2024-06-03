@@ -985,7 +985,8 @@ video {
   align-items: flex-start;
   gap: 20px;
   padding: 0px;
-  /* background-color: #b0f895; */
+  background-color: #b0f895;
+  overflow: hidden;
 }
 
 #footer #img1 {
